@@ -3,6 +3,6 @@
     "description": "RUSK NFT TEST",
     "image": "https://phantom-expansion.unidadeditorial.es/f92ff7657987b92bdc4b30ffb8a8b785/crop/51x0/809x505/resize/414/f/jpg/assets/multimedia/imagenes/2022/03/17/16475104351672.jpg",
     "external_link": "https://openseacreatures.io",
-    "seller_fee_basis_points": 1000,
+    "seller_fee_basis_points": 500,
     "fee_recipient": "0xE514f3B53F3518668f499e86F37248C052537b4f"
 }
