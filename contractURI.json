@@ -3,6 +3,6 @@
   "description": "This is only a test description",
   "image": "external-link-url/image.png",
   "external_link": "external-link-url",
-  "seller_fee_basis_points": 500, # Indicates a 1% seller fee.
-  "fee_recipient": "0x3630e045E1413eb8381bd2909f59EC9b41aCE8aF" # Where seller fees will be paid to.
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0x3630e045E1413eb8381bd2909f59EC9b41aCE8aF"
 }
